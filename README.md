@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Ruben Moreno
 
-<!--
-**rumofe/rumofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer based in Spain, passionate about building reliable systems and exploring the intersection of **Fintech** and **AI**.
 
-Here are some ideas to get you started:
+🔭 **Current Focus**
+Building a hybrid AI/Rule-based chatbot architecture for a Chess Academy, ensuring 100% data accuracy while leveraging LLMs for natural language understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**
+* **Languages:** Python (Advanced), JavaScript, Java (Spring Boot/Maven).
+* **AI/ML:** OpenAI API, Prompt Engineering.
+* **Database:** SQL.
+* **Tools:** Git, Docker (learning), VS Code.
+
+🌱 **Goals**
+Transitioning towards the Swiss Tech ecosystem, focusing on high-standard software engineering practices.
+
+📫 **Reach me:** (https://www.linkedin.com/in/ruben-moreno-5b375a1a8/)
