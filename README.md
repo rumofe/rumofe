@@ -15,4 +15,4 @@ I am a Lead Software Engineer based in Spain, specializing in FinTech, Artificia
 
 ### 📫 Let's Connect
 *   **Email:** [rubenmorenofernandez7@gmail.com](mailto:rubenmorenofernandez7@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/ruben-moreno](https://www.linkedin.com/in/ruben-moreno)
+*   **LinkedIn:** [linkedin.com/in/ruben-moreno-fernandez]([https://www.linkedin.com/in/ruben-moreno](https://www.linkedin.com/in/rubén-moreno-fernández-5b375a1a8/))
