@@ -1,17 +1,18 @@
-## Hi there 👋 I'm Ruben Moreno
+## Hi there, I'm Ruben Moreno
 
-I'm a Software Engineer based in Spain, passionate about building reliable systems and exploring the intersection of **Fintech** and **AI**.
+I am a Lead Software Engineer based in Spain, specializing in FinTech, Artificial Intelligence integrations, and scalable software architecture. I focus on bridging the gap between high-performance backends and intuitive user experiences through autonomous execution.
 
-🔭 **Current Focus**
-Building a hybrid AI/Rule-based chatbot architecture for a Chess Academy, ensuring 100% data accuracy while leveraging LLMs for natural language understanding.
+### 🔭 Current Focus
+*   **Wrap Investing:** Driving the technical roadmap and deploying the core end-to-end architecture (Flutter, Supabase, Vercel) for a next-generation online brokerage platform.
+*   **Quantitative Finance Project:** Engineering a complex financial platform dedicated to automated portfolio optimization and multi-source data extraction using Python.
 
-🛠 **Tech Stack**
-* **Languages:** Python (Advanced), JavaScript, Java (Spring Boot/Maven).
-* **AI/ML:** OpenAI API, Prompt Engineering.
-* **Database:** SQL.
-* **Tools:** Git, Docker (learning), VS Code.
+### 🛠️ Technical Stack
+*   **Programming:** Python, Java, C++, Go, TypeScript, JavaScript, SQL
+*   **Frontend & Mobile:** Flutter, HTML5, CSS3
+*   **Backend & Cloud:** Node.js, Supabase, Vercel, RESTful APIs
+*   **Tools & Infrastructure:** Git, Docker, Linux Systems, LaTeX
+*   **Specialized:** AI Models Integration, Financial Data Processing, Unity (Game Logic)
 
-🌱 **Goals**
-Transitioning towards the Swiss Tech ecosystem, focusing on high-standard software engineering practices.
-
-📫 **Reach me:** (https://www.linkedin.com/in/ruben-moreno-5b375a1a8/)
+### 📫 Let's Connect
+*   **Email:** [rubenmorenofernandez7@gmail.com](mailto:rubenmorenofernandez7@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/ruben-moreno](https://www.linkedin.com/in/ruben-moreno)
